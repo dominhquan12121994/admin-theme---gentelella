@@ -1,0 +1,27 @@
+.account-detail-label {
+    font-size: 18px;
+    color: #333;
+}
+.account-detail-description {
+    font-size: 16px;
+    color: #888;
+}
+.account-detail-img {
+    width: 220px;
+    height: 220px;
+    box-shadow: 0px 0px 15px #333;
+    border-radius: 50%;
+}
+.account-detail-title {
+    color: #333;
+    padding: 10px 0px;
+}
+.profile_right,
+.profile_left {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 6%;
+}
+.account-detail-confirm {
+    margin-top: 10px;
+}
