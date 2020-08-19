@@ -25,3 +25,8 @@
 .account-detail-confirm {
     margin-top: 10px;
 }
+.account-detail-btn {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
